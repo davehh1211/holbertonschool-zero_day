@@ -1,5 +1,5 @@
 
-**strong**Holberton Zero Day__strong__
+**Holberton Zero Day**
 
 Repository based on the basics code line for interacting on Emacs, Vi, Git and Github. It is the foundation on the partner sharing projects.
 
